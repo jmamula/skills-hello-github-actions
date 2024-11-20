@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions slava ukraini
+# Hello GitHub Actions free palestine
 
 _Create and run a GitHub Actions workflow._
 
